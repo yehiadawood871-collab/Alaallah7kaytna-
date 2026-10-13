@@ -141,7 +141,7 @@ p{color:var(--text-muted);line-height:1.85;overflow-wrap:break-word;word-wrap:br
   flex-shrink:0;
   box-shadow:var(--shadow-sm);
 }
-.brand-text{display:flex;flex-direction:column;line-height:1.15;min-width:0}
+.brand-text{display:flex;flex-direction:column;gap:4px;line-height:1.6;min-width:0}
 .brand-name{
   font-family:'Reem Kufi',sans-serif;
   font-weight:700;
